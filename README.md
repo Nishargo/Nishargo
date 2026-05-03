@@ -10,7 +10,7 @@
 
 Production backend systems and ML pipelines.
 MSc Information & Communication Systems, TU Hamburg.
-Based in Germany.
+Based in Germany.  
 
 ---
 
