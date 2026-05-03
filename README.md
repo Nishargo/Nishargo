@@ -16,7 +16,7 @@ Based in Germany.
 
 ## Technical work by company
 
-**Cheesecake Technologies LLC** — Founder and Software Engineer
+**Cheesecake Technologies LLC (02/2023- Present)** — Founder and Software Engineer
 - Designed and implemented serverless cloud infrastructure on AWS
   (Lambda, Cognito, RDS, S3) for regulated industry clients
 - Built modular backend architecture with Node.js, Prisma,
@@ -24,7 +24,7 @@ Based in Germany.
 - Led end-to-end development, deployment, and monitoring
   in a small agile team
 
-**STRAFFR GmbH** — Working Student Backend Developer (IoT Healthcare Startup)
+**STRAFFR GmbH (03/2020-09/2021)** — Working Student Backend Developer (IoT Healthcare Startup)
 - Built ML models for personalised fitness recommendations
   from IoT smart band sensor data stored in Firebase
 - Optimised Firebase data reads and writes for real-time
@@ -32,20 +32,20 @@ Based in Germany.
 - Evaluated and selected production ML tooling including
   Weka and Google AI Studio for model implementation
 
-**DROM Solutions** — Working Student IT Project Manager
+**DROM Solutions (10/2021-02/2023)** — Working Student IT Project Manager
 - Developed internal tooling with Microsoft Power Apps
   for SAP authorisation and GRC compliance processes
 - Managed user and role administration in SAP systems
   with audit-proof documentation
 
-**ContiTech / Continental** — Data Analyst
+**ContiTech / Continental (11/2019-03/2020)** — Data Analyst
 - Modelled data structures and ran statistical analyses
   to support business decisions on cross-company
   knowledge exchange platform
 - Documented requirements, use cases, and processes
   using Scrum and Kanban
 
-**Bündnis 90 / Die Grünen, Hamburg Parliament** — AI Intern
+**Bündnis 90 / Die Grünen, Hamburg Parliament (03/2026-Present)** — AI Intern
 - Researched and analysed AI policies including ethical,
   regulatory, and societal implications under EU AI Act
   in a parliamentary context
@@ -69,7 +69,7 @@ Shipd.ai by Datacurve, March 2026.
 CNN-based classification model for emotion detection
 from audio signals. Focus on model quality and deployment
 in sensitive application contexts.
-Python, CNN, signal processing. Grade 2.0.
+Python, CNN. Grade 2.0.
 
 ---
 
