@@ -150,16 +150,6 @@ post-mortem documentation.
 
 ---
 
-## Currently
-
-AI policy research at Hamburg Parliament.
-Building production ML and backend systems in public.
-Open to full time Backend or ML Engineering roles in Germany.
-Available immediately.
-Blue Card eligible with qualifying offer.
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nnofficial)
