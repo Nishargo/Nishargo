@@ -14,7 +14,7 @@ Based in Germany.
 
 ---
 
-## Technical work by company
+## Work experience
 
 **Bündnis 90 / Die Grünen, Hamburg Parliament (03/2026-05/2026)** — AI Intern
 - Researched and analysed policies including ethical,
