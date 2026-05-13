@@ -16,6 +16,11 @@ Based in Germany.
 
 ## Technical work by company
 
+**Bündnis 90 / Die Grünen, Hamburg Parliament (03/2026-05/2026)** — AI Intern
+- Researched and analysed policies including ethical,
+  regulatory, and societal implications using AI
+  in a parliamentary context
+
 **Cheesecake Technologies LLC (02/2023- Present)** — Founder and Software Engineer
 - Designed and implemented serverless cloud infrastructure on AWS
   (Lambda, Cognito, RDS, S3) for regulated industry clients
@@ -45,16 +50,11 @@ Based in Germany.
 - Documented requirements, use cases, and processes
   using Scrum and Kanban
 
-**Bündnis 90 / Die Grünen, Hamburg Parliament (03/2026-05/2026)** — AI Intern
-- Researched and analysed policies including ethical,
-  regulatory, and societal implications using AI
-  in a parliamentary context
-
 ---
 
 ## ML competitions
 
-| Competition | Result | What |
+| Competition | Result | Task |
 |------------|--------|------|
 | Compositional Zero-Shot Visual Reasoning | **Top 4** | Predicting visual relationships using compositional logic |
 | Therapist Response LLM Proportion Estimation | **Top 5** | Regression estimating LLM vs human text proportion |
