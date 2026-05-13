@@ -6,9 +6,9 @@
 
 ---
 
-## What I build
+## Background
 
-Production backend systems and ML pipelines.
+I build production backend systems and ML pipelines.
 MSc Information & Communication Systems, TU Hamburg.
 Based in Germany.  
 
