@@ -45,7 +45,7 @@ Based in Germany.
 - Documented requirements, use cases, and processes
   using Scrum and Kanban
 
-**Bündnis 90 / Die Grünen, Hamburg Parliament (03/2026-Present)** — AI Intern
+**Bündnis 90 / Die Grünen, Hamburg Parliament (03/2026-05/2026)** — AI Intern
 - Researched and analysed AI policies including ethical,
   regulatory, and societal implications under EU AI Act
   in a parliamentary context
