@@ -69,7 +69,7 @@ Shipd.ai by Datacurve, March 2026.
 CNN-based classification model for emotion detection
 from audio signals. Focus on model quality and deployment
 in sensitive application contexts.
-Python, CNN → [Speech-Emotion-Recognition-Using-Convolutional-Neural-Network-and-Its-Use-Case-in-Digital-Healthcare](https://arxiv.org/pdf/2406.10741)
+Python, CNN
 
 ---
 
