@@ -19,7 +19,7 @@ Based in Germany.
 **Bündnis 90 / Die Grünen, Hamburg Parliament (03/2026-05/2026)** — AI Intern
 - Researched and analysed policies including ethical,
   regulatory, and societal implications using AI
-  in a parliamentary context
+  in a parliamentary context and built an automated pipeline for the current workflow.
 
 **Cheesecake Technologies LLC (02/2023- Present)** — Founder and Software Engineer
 - Designed and implemented serverless cloud infrastructure on AWS
