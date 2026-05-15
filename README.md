@@ -67,7 +67,7 @@ Shipd.ai by Datacurve, March 2026.
 
 **Emotion Recognition from Audio Data — TU Hamburg**
 CNN-based classification model for emotion detection
-from audio signals. Focus on model quality and deployment
+from audio signals focusing on on model quality and deployment
 in sensitive application contexts using Python and CNN → [Speech Emotion Recognition Using Convolutional Neural Network and Its Use Case in Digital Healthcare](https://arxiv.org/pdf/2406.10741)
 My thesis was turned into a mental health project, called [Bolo](https://boloapp.vercel.app/)
 
