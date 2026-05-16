@@ -43,13 +43,6 @@ Based in Germany.
 - Managed user and role administration in SAP systems
   with audit-proof documentation
 
-**ContiTech / Continental (11/2019-03/2020)** — Data Analyst
-- Modelled data structures and ran statistical analyses
-  to support business decisions on cross-company
-  knowledge exchange platform
-- Documented requirements, use cases, and processes
-  using Scrum and Kanban
-
 ---
 
 ## ML competitions
