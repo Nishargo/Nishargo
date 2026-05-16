@@ -29,6 +29,12 @@ Based in Germany.
 - Led end-to-end development, deployment, and monitoring
   in a small agile team
 
+**DROM Solutions (10/2021-02/2023)** — Working Student IT Project Manager
+- Developed internal tooling with Microsoft Power Apps
+  for SAP authorisation and GRC compliance processes
+- Managed user and role administration in SAP systems
+  with audit-proof documentation
+
 **STRAFFR GmbH (03/2020-09/2021)** — Working Student Backend Developer (IoT Healthcare Startup)
 - Built ML models for personalised fitness recommendations
   from IoT smart band sensor data stored in Firebase
@@ -36,12 +42,6 @@ Based in Germany.
   sensor data processing from wearable devices
 - Evaluated and selected production ML tooling including
   Weka and Google AI Studio for model implementation
-
-**DROM Solutions (10/2021-02/2023)** — Working Student IT Project Manager
-- Developed internal tooling with Microsoft Power Apps
-  for SAP authorisation and GRC compliance processes
-- Managed user and role administration in SAP systems
-  with audit-proof documentation
 
 ---
 
